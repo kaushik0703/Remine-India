@@ -45,7 +45,7 @@ class Footer extends Component {
                   </a>
 
                   <a href=''><img src={RecycleCanLight} className = {css(styles.logoImageStyle)} /></a>
-                  <p>© Copyright 2023 Remine India.</p>
+                  <p>Remine India.</p>
 
                   <a href='https://github.com/kaushik0703/Remine-India'><img src={GitHubLogo} className = {css(styles.gitHubLogoStyle)} />
 

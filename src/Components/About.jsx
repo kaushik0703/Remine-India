@@ -54,7 +54,7 @@ class About extends Component {
               <div id="header33" >
                 <h1 style = {{textAlign:'left', }}><b>About Us</b>
               </h1>
-              <p style = {{textAlign:'left',paddingLeft:'60px' , paddingRight:'60px'}}>REMINE INDIA PRIVATE LIMITED is a UTTARAKHAND based PRIVATE ltd. Company Registered at dated 06-DEC-2022 on Ministry of Corporate Affairs(MCA), The Corporate Identification Number (CIN) of REMINE INDIA PRIVATE LIMITED is U37100UR2022PTC014948 and registration number is U37100UR2022PTC014948 It has been classified as COMPANY LIMITED BY SHARES and is registered under Registrar of Companies UTTARAKHAND India. Authorized share capital of REMINE INDIA PRIVATE LIMITED is Rs. 1000000 and its paid up capital is Rs. 1000000. It aspire to serve in RECYCLING activities across the India.
+              <p style = {{textAlign:'left',paddingLeft:'60px' , paddingRight:'60px'}}>REMINE INDIA PRIVATE LIMITED is a UTTARAKHAND based PRIVATE ltd. Company Registered at dated 06-DEC-2022 on Ministry of Corporate Affairs(MCA), The Corporate Identification Number (CIN) of REMINE INDIA PRIVATE LIMITED is U37100UR2022PTC014948 and registration number is U37100UR2022PTC014948 It has been classified as COMPANY LIMITED BY SHARES and is registered under Registrar of Companies UTTARAKHAND India. It aspire to serve in RECYCLING activities across the India.
               </p>
             </div>
           </div>
